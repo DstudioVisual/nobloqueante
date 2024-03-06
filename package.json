@@ -1,0 +1,22 @@
+{
+  "name": "nobloqueante",
+  "version": "1.0.0",
+  "description": "mi primer programa no bloqueante",
+  "main": "nobloqueante.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DstudioVisual/nobloqueante.git"
+  },
+  "keywords": [
+    "nobloqueante"
+  ],
+  "author": "David Alexis Bustillos Aguirre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DstudioVisual/nobloqueante/issues"
+  },
+  "homepage": "https://github.com/DstudioVisual/nobloqueante#readme"
+}
